@@ -1,1 +1,1 @@
-Responsive website slated to go live in early January (technologies used: HTML, SASS, JavaScript, Grunt, Django, custom CMS based on Mezzanine). Private codebase.
+Mobile-first, responsive website http://www.artwithheart.org/. Technologies used: HTML, SASS, JavaScript, Grunt, Django, custom CMS based on Mezzanine. Private codebase.
